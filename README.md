@@ -2,3 +2,102 @@
 tiago
 julio teste
 joão
+codigo:
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ODS 11 – Cidades e Comunidades Sustentáveis</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>ODS 11: Cidades e Comunidades Sustentáveis</h1>
+    <nav>
+      <ul>
+        <li><a href="#objetivo">Objetivo</a></li>
+        <li><a href="#explicacao">Conceitos</a></li>
+        <li><a href="#metas">Metas</a></li>
+        <li><a href="#iniciativas">Iniciativas</a></li>
+        <li><a href="#projetos">Projetos Futuros</a></li>
+        <li><a href="#regioes">Regiões</a></li>
+        <li><a href="#entidades">Entidades</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="objetivo">
+      <h2>Objetivo</h2>
+      <p><mark>Tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis.</mark></p>
+      <!-- Fonte: UN Brasil :contentReference[oaicite:1]{index=1} -->
+    </section>
+
+    <section id="explicacao">
+      <h2>Conceitos</h2>
+      <article>
+        <p>A <abbr title="Sustainable Development Goal">ODS</abbr> 11 visa assegurar que o processo de urbanização equilibre aspectos sociais, econômicos e ambientais, promovendo <em>inclusão</em>, <em>segurança</em>, <em>resiliência</em> e <em>sustentabilidade</em> nas cidades.</p>
+         <!-- Fonte: ONU Brasil – ODS 11 -->
+        <p>Uma cidade sustentável é projetada considerando os impactos socioambientais, com uso racional de recursos naturais e atenção às gerações futuras.</p>
+        <!-- Fonte: ONU Brasil – ODS 11 -->
+      </article>
+    </section>
+
+    <section id="metas">
+      <h2>Metas</h2>
+      <ul>
+        <li>11.1 Até 2030, garantir habitação segura, adequada, acessível e urbanizar favelas. <!-- :contentReference[oaicite:4]{index=4} --></li>
+        <li>11.2 Sistemas de transporte seguros, acessíveis e sustentáveis. <!-- :contentReference[oaicite:5]{index=5} --></li>
+        <li>11.3 Urbanização inclusiva, sustentável e planejamento participativo. <!-- :contentReference[oaicite:6]{index=6} --></li>
+        <li>11.4 Proteger o patrimônio cultural e natural. <!-- :contentReference[oaicite:7]{index=7} --></li>
+        <li>11.5 Reduzir mortes e perdas em desastres. <!-- :contentReference[oaicite:8]{index=8} --></li>
+        <li>11.6 Reduzir impacto ambiental negativo das cidades. <!-- :contentReference[oaicite:9]{index=9} --></li>
+        <li>11.7 Acesso universal a espaços públicos verdes e inclusivos. <!-- :contentReference[oaicite:10]{index=10} --></li>
+        <li>11.a Apoiar integração urbana e rural. <!-- :contentReference[oaicite:11]{index=11} --></li>
+        <li>11.b Adoção de políticas integradas para mitigação e resiliência. <!-- :contentReference[oaicite:12]{index=12} --></li>
+        <li>11.c Assistência técnica e financeira a países menos desenvolvidos. <!-- :contentReference[oaicite:13]{index=13} --></li>
+      </ul>
+    </section>
+
+    <section id="iniciativas">
+      <h2>Iniciativas Já Aplicadas</h2>
+      <ul>
+        <li><strong>Programa Minha Casa, Minha Vida</strong>: habitação popular subsidiada pelo governo federal. <!-- :contentReference[oaicite:14]{index=14} --></li>
+        <li><strong>UN-Habitat Brasil</strong>: apoio técnico para urbanização sustentável desde 1996. <!-- :contentReference[oaicite:15]{index=15} --></li>
+      </ul>
+    </section>
+
+    <section id="projetos">
+      <h2>Projetos Futuros</h2>
+      <details>
+        <summary>Lançamento de programa para oferta de habitação acessível</summary>
+        <p>Projeto <data value="2025">2025</data>: expansão de 100.000 unidades habitacionais sustentáveis.</p>
+        <p>Parceria com o UN-Habitat para scaling-up da oferta de moradias. <!-- :contentReference[oaicite:16]{index=16} --></p>
+      </details>
+    </section>
+
+    <section id="regioes">
+      <h2>Regiões do Brasil com Iniciativas</h2>
+      <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Mapa_do_Brasil_por_regi%C3%B5es.PNG" alt="Mapa do Brasil por regiões" />
+        <figcaption>Divisão em cinco regiões brasileiras, onde ocorrem diferentes projetos de urbanização sustentável. <!--  --></figcaption>
+      </figure>
+    </section>
+
+    <section id="entidades">
+      <h2>Pessoas e Entidades Envolvidas</h2>
+      <aside>
+        <ul>
+          <li><strong>UN-Habitat Brasil</strong>: coordenação de ações urbanas junto ao governo. <!-- :contentReference[oaicite:17]{index=17} --></li>
+          <li><strong>Movimento dos Trabalhadores Sem Teto (MTST)</strong>: mobilização social por moradia digna. <!-- :contentReference[oaicite:18]{index=18} --></li>
+        </ul>
+      </aside>
+    </section>
+  </main>
+
+  <footer>
+    <p>Fonte principal: <a href="https://brasil.un.org/pt-br/sdgs/11">ONU Brasil – ODS 11</a></p>
+  </footer>
+</body>
+</html>
